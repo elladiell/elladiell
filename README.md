@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📚 I'm ML/CV Engineer
+- 📚 I'm Data Scientist
 - 👾 Participating in hackathons:
   - 3rd place in INNOTECH HACK
   - 1st place in IVision
