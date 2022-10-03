@@ -5,7 +5,7 @@
   - 3rd place in INNOTECH HACK
   - 1st place in IVision 2021
   - 1st place in IVision 2022
-- 🌱 Currently I'm using Python, C++ and Solidity in development
+- 🌱 Currently I'm using Python, C++ and MatLab in development
 - 💻 I have an expierence in webdev:
   -  backend *Java*,*Python*
   -  frontend *JS/CSS/HTML*,*Node.js*
