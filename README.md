@@ -8,7 +8,7 @@
 - 🌱 Currently I'm using Python, C++ and MatLab in development
 - 💻 I have an expierence in webdev:
   -  backend *Java*,*Python*
-  -  frontend *JS/CSS/HTML*,*Node.js*
+  -  frontend (a bit) *JS/CSS/HTML*,*Node.js*
 - 🤖 I'm interested in analytics, physics, robotics and GameDev
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=elladiell&show_icons=true&theme=tokyonight)](https://github.com/elladiell/github-readme-stats)
